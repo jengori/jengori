@@ -1,5 +1,5 @@
 ## Hi, I'm Jen.
-Welcome to my GitHub profile. My name is Jen Gori and I love building cool stuff with Python and JavaScript.
+Welcome to my GitHub profile. I love building cool stuff with Python and JavaScript.
 
 📌  See pinned repositories for examples of some of my recent projects.
 
