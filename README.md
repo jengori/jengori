@@ -1,4 +1,4 @@
-# Hi, I'm Jen.
+# Hi, I'm Jen.![Hendos CSS Art](hendos-css.png)
 🌱  I am a current bootcamp student aiming to begin an entry-level software engineering role in 2024.
 
 📌  See pinned repositories for examples of some of my recent projects.
