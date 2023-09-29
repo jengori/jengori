@@ -1,5 +1,5 @@
 ## Hi, I'm Jen.
-🌱  I am a current bootcamp student aiming to begin an entry-level software engineering role in 2024.
+Welcome to my GitHub profile. My name is Jen Gori and I love building cool stuff with Python and JavaScript.
 
 📌  See pinned repositories for examples of some of my recent projects.
 
