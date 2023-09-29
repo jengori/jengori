@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jen.
+I am a current bootcamp student and I am aiming to begin an entry-level software engineering role in 2024.  
+See my featured repositories for examples of some of my recent projects.
 
 <!--
 **jengori/jengori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
