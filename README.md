@@ -1,5 +1,5 @@
 ## Hi, I'm Jen.
-Welcome to my GitHub profile. I love building cool stuff with Python, JavaScript and CSS.
+Welcome to my :octocat: GitHub profile. I love building cool stuff with Python, JavaScript and CSS.
 
 📌  See pinned repositories for examples of some of my recent projects.
 
