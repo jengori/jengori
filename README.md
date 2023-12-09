@@ -1,5 +1,5 @@
 ## Hi, I'm Jen.
-Thanks for visiting my GitHub profile.
+Welcome to my GitHub profile.
 
 📌  See pinned repositories for examples of some of my recent projects.
 
